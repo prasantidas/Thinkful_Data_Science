@@ -3,6 +3,7 @@ SELECT
 	MAX(MaxTemperatureF)
 FROM 
 	weather;
+-- You have not returned the date and the place
 
 --How many trips started at each station?
 SELECT
